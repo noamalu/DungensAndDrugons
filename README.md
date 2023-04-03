@@ -1,4 +1,4 @@
-Title: Game of Thrones - The Battle for Westeros
+Game of Thrones - The Battle for Westeros
 
 Description:
 
